@@ -22,6 +22,12 @@ Run the script using Python 3:
 python3 extract.py
 ````
 
+To output the data use the '>' operator:
+
+````
+python3 extract.py > export.txt
+````
+
 The script will display the sender and receiver information for each <policy_member> section present in the input data.
 
 <h2>Input Data Format</h2>
@@ -35,7 +41,7 @@ The script assumes that your input data follows a specific format, where <policy
 </ol>
 
 <h2>Requirements</h2>
-* Python 3.x
+<ol>Python 3.x</ol>
 
 <h2>Disclaimer</h2>
 This script is provided as-is and without any warranty. It's intended to demonstrate how to extract information from a specific data format. Please make sure to understand and modify the script as needed for your use case.

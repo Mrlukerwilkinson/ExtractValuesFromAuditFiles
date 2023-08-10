@@ -5,13 +5,13 @@ This Python script extracts sender and receiver information from a data format c
 Clone the repository to your local machine using the following command:
   
 `````
-git clone https://github.com/mrlukerwilkinson/policy-member-extraction.git
+git clone https://github.com/Mrlukerwilkinson/ExtractValuesFromAuditFiles.git
 `````
 
 Navigate to the cloned directory:
 
 ````
-cd policy-member-extraction
+cd ExtractValuesFromAuditFiles
 ````
 
 Place your data in a text file named input.txt within the same directory.
